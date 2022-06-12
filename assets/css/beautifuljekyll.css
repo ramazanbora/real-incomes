@@ -711,7 +711,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     padding: 9.375rem 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 5rem;
+    font-size: 4rem;
   }
   .intro-header .post-heading h1 {
     font-size: 3.125rem;
@@ -978,8 +978,15 @@ pre {
 }
 
 .blog-post hr {
-  max-width: 25%;
+  max-width: 100%;
   border-width: 0.25rem;
+  border-radius: 0.1875rem;
+  border-color: #808080;
+}
+
+.blog-post hr.small {
+  max-width: 100%;
+  border-width: 0.1rem;
   border-radius: 0.1875rem;
   border-color: #808080;
 }
