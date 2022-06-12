@@ -10,9 +10,6 @@ layout: post
 {% assign country_details = site.data.country_details | group_by:"COUNTRY" %}
 {% assign currency_iso = site.data.currency_iso | group_by:"COUNTRY" %}
 
-Some work done here.
-
-
 
 
 ## cool tables
