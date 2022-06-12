@@ -812,6 +812,8 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 
 table {
   padding: 0;
+  width: 100%;
+  table-layout:fixed;
 }
 table tr {
   border-top: 1px solid #cccccc;

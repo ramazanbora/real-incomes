@@ -7,19 +7,56 @@ layout: post
 <script src="https://www.gstatic.com/charts/loader.js"></script>
 <script src="{{ site.baseurl }}/assets/some-script.js" type="text/javascript"></script>
 
-{% assign country_details = site.data.country_details | group_by:"COUNTRY" %}
+{% assign country_details = site.data.country_details | group_by:"COUNTRY" | sort:"name"%}
 {% assign currency_iso = site.data.currency_iso | group_by:"COUNTRY" %}
 
 
 
-## cool tables
+## COOL TABLES
 
 {% for country in country_details %}
-  {% assign country_iso = currency_iso | find: "name" , country.name %}
+
+
 
 <hr>
   <details {% if forloop.first %} open {% endif %} >
     <summary>{{ country.name }}</summary>
+
+    {% assign country_filtered =  country.items | where: "D_BENCHC","1" %}
+
+        <h3> {{ country.name }} Participation in Benchmark </h3>
+        {% assign country_filtered_size = country_filtered | size %}
+    {% if  country_filtered_size == 0 %}
+      <h4>Note: {{ country.name }} did not participate in any of the benchmarks.</h4>
+    {% endif %}
+
+    <table>
+      {% for row in country_filtered  %}
+        {% if forloop.first %}
+          <tr>
+            {% for pair in row%}
+              {% if pair[0] == "CODE_WB" or pair[0] == "COUNTRY" or pair[0] == "YEAR" %}
+                  <th>{{ pair[0] }}</th>
+              {% endif %}
+
+            {% endfor %}
+          </tr>
+        {% endif %}
+
+        <tr>
+        {% for pair in row %}
+
+
+          {% if pair[0] == "CODE_WB" or pair[0] == "COUNTRY" or pair[0] == "YEAR" %}
+            <td>
+              {{ pair[1] }}
+            </td>
+          {% endif %}
+
+        {% endfor %}
+        </tr>
+      {% endfor %}
+    </table>
 
     <h3> {{ country.name }} Historical Currencies </h3>
 
