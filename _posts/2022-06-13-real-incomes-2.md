@@ -24,6 +24,13 @@ layout: post
   <details {% if forloop.first %} open {% endif %} >
     <summary>{{ country.name }}</summary>
 
+    <h3> {{ country.name }} Geographic and Economic Classification: </h3>
+
+    {% include get_country_region_table.html cntry=country.name %}
+
+
+<hr class="small">
+
     {% assign country_filtered =  country.items | where: "D_BENCHC","1" %}
 
         <h3> {{ country.name }} Participation in Benchmark </h3>
@@ -61,7 +68,7 @@ layout: post
     </table>
 
     <h3> {{ country.name }} Historical Currencies </h3>
-    {% include get_country_table.html cntry=country.name %}
+    {% include get_country_currency_table.html cntry=country.name %}
 
 {% comment %}
     <div id="{{ country.name }}">
