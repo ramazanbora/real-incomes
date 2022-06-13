@@ -1,5 +1,5 @@
 ---
-title: "Real Incomes 2"
+title: "Real Incomes 3"
 layout: post
 # permalink: "/real-incomes/"
 ---
@@ -12,9 +12,7 @@ layout: post
 
 
 
-## COOL TABLES - 2
-
-
+## COOL TABLES
 
 {% for country in country_details %}
 
@@ -61,14 +59,10 @@ layout: post
     </table>
 
     <h3> {{ country.name }} Historical Currencies </h3>
-    {% include get_country_table.html cntry=country.name %}
 
-{% comment %}
     <div id="{{ country.name }}">
       "Tables loading..."
     </div>
-{% endcomment %}
-
 
 <hr class="small">
 
@@ -147,8 +141,6 @@ layout: post
 
 
 
-{% comment %}
-
 {% for country in currency_iso %}
   <script>
     var input_text = `
@@ -175,7 +167,7 @@ layout: post
 {% endfor %}
 
 
-
+{% comment %}
 
 
 <table>
