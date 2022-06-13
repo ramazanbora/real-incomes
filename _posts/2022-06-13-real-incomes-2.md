@@ -21,16 +21,18 @@ layout: post
 
 
 <hr>
-  <details {% if forloop.first %} open {% endif %} >
+  <details {% if forloop.first %} {% endif %} >
     <summary>{{ country.name }}</summary>
 
-    <h3> {{ country.name }} Geographic and Economic Classification: </h3>
+    <h3> {{ country.name }} Geographic and Economic Classification*: </h3>
 
     {% include get_country_region_table.html cntry=country.name %}
 
+<h6>*Classification is based on the year 2019.</h6>
 
+<br>
 <hr class="small">
-
+<br>
     {% assign country_filtered =  country.items | where: "D_BENCHC","1" %}
 
         <h3> {{ country.name }} Participation in Benchmark </h3>
@@ -67,6 +69,11 @@ layout: post
       {% endfor %}
     </table>
 
+    <br>
+    <hr class="small">
+    <br>
+
+
     <h3> {{ country.name }} Historical Currencies </h3>
     {% include get_country_currency_table.html cntry=country.name %}
 
@@ -76,10 +83,10 @@ layout: post
     </div>
 {% endcomment %}
 
-
+<br>
 <hr class="small">
-
-      <h3> {{ country.name }} Exchange Rate Progression </h3>
+<br>
+      <h3> {{ country.name }} Exchange Rate Progression ($/current currency) </h3>
 
       {% capture exchange_rates_XR -%}
         {% for row in country.items -%}
@@ -103,9 +110,12 @@ layout: post
       <script>
         createChart("myChart_{{ country.name }}_XR",[{{ exchange_rates_YEAR }}],[{{ exchange_rates_XR }}])
       </script>
+<br>
 
+
+{% comment %}
 <hr class="small">
-
+<br>
       <h3> {{ country.name }} Population Progression </h3>
 
             {% capture pop -%}
@@ -130,6 +140,8 @@ layout: post
             <script>
               createChart("myChart_{{ country.name }}_POP",[{{ pop_YEAR }}],[{{ pop }}])
             </script>
+
+{% endcomment %}
 
 
 
