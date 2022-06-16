@@ -1,0 +1,90 @@
+{% comment %}
+
+{% assign a = "something" %}
+{% for i in a %}
+{%if include.type == "name"%}
+<li>hello</li>
+{%else if include.type == "url"%}
+<loc>wello</loc>
+{%endif %}
+{% endfor %}
+Some text
+
+{% endcomment %}
+
+
+{% assign country_currency_iso = site.data.currency_iso | group_by:"COUNTRY" %}
+
+{% assign country_currency = country_currency_iso | where: "name",include.cntry %}
+
+{% assign country_currency_items = country_currency[0].items %}
+
+<!--- {{ country_currency }}
+
+{{ country_currency }}
+
+{{ country_currency."name" }}
+
+{{ country_currency."name" }}
+
+{{ include.cntry }}
+ --->
+
+ <table>
+   {% for row in  country_currency_items %}
+     {% if forloop.first %}
+       <tr>
+         {% for pair in row%}
+           <th>{{ pair[0] }}</th>
+         {% endfor %}
+       </tr>
+     {% endif %}
+
+     {% tablerow pair in row %}
+       {{ pair[1] }}
+     {% endtablerow %}
+
+   {% endfor %}
+ </table>
+
+
+
+{% comment %}
+
+{{ country_currency[0].items  }}
+
+
+hello!!
+
+
+
+
+
+
+
+{% for country in currency_iso %}
+  <script>
+    var input_text = `
+    <table>
+      {% for row in country.items %}
+        {% if forloop.first %}
+          <tr>
+            {% for pair in row%}
+              <th>{{ pair[0] }}</th>
+            {% endfor %}
+          </tr>
+        {% endif %}
+
+        {% tablerow pair in row %}
+          {{ pair[1] }}
+        {% endtablerow %}
+
+      {% endfor %}
+    </table>
+    `;
+
+    createTable2({{ country | jsonify }},input_text);
+  </script>
+{% endfor %}
+
+{% endcomment %}

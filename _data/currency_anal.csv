@@ -1,0 +1,278 @@
+"CODE_WB","CURRENCY","CURRENCYCODE","CURRENCYCODE_HIST","CURRENCY_FIRST_YEAR","CURRENCY_LAST_YEAR"
+"ABW","Aruban Guilder","AWG","AWG",1970,2019
+"AFG","Afghani","AFN","AFA",1970,2002
+"AFG","Afghani","AFN","AFN",2003,2019
+"AGO","Kwanza","AOA","AOA",2000,2019
+"AGO","Kwanza","AOA","AOK",1970,1990
+"AGO","Kwanza","AOA","AON",1991,1994
+"AGO","Kwanza","AOA","AOR",1995,1999
+"ALB","Lek","ALL","ALK",1970,1989
+"ALB","Lek","ALL","ALL",1990,2019
+"ARE","UAE Dirham","AED","AED",1970,2019
+"ARG","Argentine Peso","ARS","ARA",1985,1991
+"ARG","Argentine Peso","ARS","ARP",1983,1984
+"ARG","Argentine Peso","ARS","ARS",1970,2019
+"ARM","Armenian Dram","AMD","AMD",1995,2019
+"ARM","Armenian Dram","AMD","RUR",1990,1994
+"ATG","East Caribbean Dollar","XCD","XCD",1970,2019
+"AUS","Australian Dollar","AUD","AUD",1970,2019
+"AUT","Euro","EUR","ATS",1970,2001
+"AUT","Euro","EUR","EUR",2002,2019
+"AZE","Azerbaijanian Manat","AZN","AZM",1993,2005
+"AZE","Azerbaijanian Manat","AZN","AZN",2006,2019
+"AZE","Azerbaijanian Manat","AZN","RUR",1990,1992
+"BDI","Burundi Franc","BIF","BIF",1970,2019
+"BEL","Euro","EUR","BEF",1970,1998
+"BEL","Euro","EUR","EUR",1999,2019
+"BEN","CFA Franc BCEAO","XOF","XOF",1970,2019
+"BFA","CFA Franc BCEAO","XOF","XOF",1970,2019
+"BGD","Taka","BDT","BDT",1970,2019
+"BGR","Bulgarian Lev","BGN","BGL",1970,1999
+"BGR","Bulgarian Lev","BGN","BGN",2000,2019
+"BHR","Bahraini Dinar","BHD","BHD",1970,2019
+"BHS","Bahamian Dollar","BSD","BSD",1970,2019
+"BIH","Convertible Marks","BAM","BAD",1990,1998
+"BIH","Convertible Marks","BAM","BAM",1999,2019
+"BLR","Belarussian Ruble","BYN","BYB",1992,2000
+"BLR","Belarussian Ruble","BYN","BYN",2017,2019
+"BLR","Belarussian Ruble","BYN","BYR",2001,2016
+"BLR","Belarussian Ruble","BYN","RUR",1990,1991
+"BLZ","Belize Dollar","BZD","BZD",1970,2019
+"BMU","Bermudian Dollar","BMD","BMD",1970,2019
+"BOL","Boliviano","BOB","BOB",1987,2019
+"BOL","Boliviano","BOB","BOP",1970,1986
+"BRA","Brazilian Real","BRL","BRB",1970,1985
+"BRA","Brazilian Real","BRL","BRC",1986,1988
+"BRA","Brazilian Real","BRL","BRE",1990,1992
+"BRA","Brazilian Real","BRL","BRL",1994,2019
+"BRA","Brazilian Real","BRL","BRN",1989,1989
+"BRA","Brazilian Real","BRL","BRR",1993,1993
+"BRB","Barbados Dollar","BBD","BBD",1970,2019
+"BRN","Brunei Dollar","BND","BND",1970,2019
+"BTN","Ngultrum","BTN","BTN",1970,2019
+"BWA","Pula","BWP","BWP",1970,2019
+"CAF","CFA Franc BEAC","XAF","XAF",1970,2019
+"CAN","Canadian Dollar","CAD","CAD",1970,2019
+"CHE","Swiss Franc","CHF","CHC",1970,2004
+"CHE","Swiss Franc","CHF","CHF",2005,2019
+"CHL","Chilean Peso","CLP","CLP",1970,2019
+"CHN","Yuan Renminbi","CNY","CNY",1970,2019
+"CIV","CFA Franc BCEAO","XOF","XOF",1970,2019
+"CMR","CFA Franc BEAC","XAF","XAF",1970,2019
+"COD","Franc Congolais","CDF","CDF",1970,2019
+"COG","CFA Franc BEAC","XAF","XAF",1970,2019
+"COL","Colombian Peso","COP","COP",1970,2019
+"COM","Comoro Franc","KMF","KMF",1970,2019
+"CPV","Cabo Verde Escudo","CVE","CVE",1970,2019
+"CRI","Costa Rican Colon","CRC","CRC",1970,2019
+"CYP","Euro","EUR","CYP",1970,2007
+"CYP","Euro","EUR","EUR",2008,2019
+"CZE","Czech Koruna","CZK","CZK",1990,2019
+"DEU","Euro","EUR","DEM",1970,2001
+"DEU","Euro","EUR","EUR",2002,2019
+"DJI","Djibouti Franc","DJF","DJF",1970,2019
+"DMA","East Caribbean Dollar","XCD","XCD",1970,2019
+"DNK","Danish Krone","DKK","DKK",1970,2019
+"DOM","Dominican Peso","DOP","DOP",1970,2019
+"DZA","Algerian Dinar","DZD","DZD",1970,2019
+"ECU","US Dollar","USD","ECS",1970,2000
+"ECU","US Dollar","USD","USD",2001,2019
+"EGY","Egyptian Pound","EGP","EGP",1970,2019
+"ERI","Nakfa","ERN","ERN",1990,2019
+"ESP","Euro","EUR","ESP",1970,2001
+"ESP","Euro","EUR","EUR",2002,2019
+"EST","Euro","EUR","EEK",1990,2010
+"EST","Euro","EUR","EUR",2011,2019
+"ETH","Birr","ETB","ETB",1970,2019
+"FIN","Euro","EUR","EUR",2002,2019
+"FIN","Euro","EUR","FIM",1970,2001
+"FJI","Fiji Dollar","FJD","FJD",1970,2019
+"FRA","Euro","EUR","EUR",2002,2019
+"FRA","Euro","EUR","FRF",1970,2001
+"GAB","CFA Franc BEAC","XAF","XAF",1970,2019
+"GBR","Pound Sterling","GBP","GBP",1970,2019
+"GEO","Lari","GEL","GEK",1994,1995
+"GEO","Lari","GEL","GEL",1996,2019
+"GEO","Lari","GEL","RUR",1990,1993
+"GHA","Cedi","GHS","GHC",1970,2007
+"GHA","Cedi","GHS","GHS",2008,2019
+"GIN","Guinea Franc","GNF","GNF",1986,2019
+"GIN","Guinea Franc","GNF","GNS",1970,1985
+"GMB","Dalasi","GMD","GMD",1970,2019
+"GNB","CFA Franc BCEAO","XOF","GWP",1975,1996
+"GNB","CFA Franc BCEAO","XOF","XOF",1970,2019
+"GNQ","CFA Franc BEAC","XAF","XAF",1970,2019
+"GRC","Euro","EUR","EUR",2002,2019
+"GRC","Euro","EUR","GRD",1970,2001
+"GRD","East Caribbean Dollar","XCD","XCD",1970,2019
+"GTM","Quetzal","GTQ","GTQ",1970,2019
+"GUY","Guyana Dollar","GYD","GYD",1970,2019
+"HKG","Hong Kong Dollar","HKD","HKD",1970,2019
+"HND","Lempira","HNL","HNL",1970,2019
+"HRV","Croatian Kuna","HRK","HRD",1990,1994
+"HRV","Croatian Kuna","HRK","HRK",1995,2019
+"HTI","Gourde","HTG","HTG",1970,2019
+"HUN","Forint","HUF","HUF",1970,2019
+"IDN","Rupiah","IDR","IDR",1970,2019
+"IND","Indian Rupee","INR","INR",1970,2019
+"IRL","Euro","EUR","EUR",2002,2019
+"IRL","Euro","EUR","IEP",1970,2001
+"IRN","Iranian Rial","IRR","IRR",1970,2019
+"IRQ","Iraqi Dinar","IQD","IQD",1970,2019
+"ISL","Iceland Krona","ISK","ISK",1970,2019
+"ISR","New Israeli Sheqel","ILS","ILP",1970,1980
+"ISR","New Israeli Sheqel","ILS","ILR",1981,1985
+"ISR","New Israeli Sheqel","ILS","ILS",1986,2019
+"ITA","Euro","EUR","EUR",2002,2019
+"ITA","Euro","EUR","ITL",1970,2001
+"JAM","Jamaican Dollar","JMD","JMD",1970,2019
+"JOR","Jordanian Dinar","JOD","JOD",1970,2019
+"JPN","Yen","JPY","JPY",1970,2019
+"KAZ","Tenge","KZT","KZT",1994,2019
+"KAZ","Tenge","KZT","RUR",1990,1993
+"KEN","Kenyan Shilling","KES","KES",1970,2019
+"KGZ","Som","KGS","KGS",1993,2019
+"KGZ","Som","KGS","RUR",1990,1992
+"KHM","Riel","KHR","KHR",1970,2019
+"KIR","Australian Dollar","AUD","AUD",1970,2019
+"KNA","East Caribbean Dollar","XCD","XCD",1970,2019
+"KOR","Won","KRW","KRW",1970,2019
+"KWT","Kuwaiti Dinar","KWD","KWD",1970,2019
+"LAO","Kip","LAK","LAJ",1970,1979
+"LAO","Kip","LAK","LAK",1980,2019
+"LBN","Lebanese Pound","LBP","LBP",1970,2019
+"LBR","US Dollar","USD","USD",1970,2019
+"LBY","Libyan Dinar","LYD","LYD",1970,2019
+"LCA","East Caribbean Dollar","XCD","XCD",1970,2019
+"LKA","Sri Lanka Rupee","LKR","LKR",1970,2019
+"LSO","Loti","LSL","LSL",1995,2019
+"LSO","Loti","LSL","LSM",1970,1984
+"LSO","Loti","LSL","ZAL",1985,1994
+"LTU","Euro","EUR","EUR",2015,2019
+"LTU","Euro","EUR","LTL",1994,2014
+"LTU","Euro","EUR","LTT",1990,1993
+"LUX","Euro","EUR","EUR",2002,2019
+"LUX","Euro","EUR","LUF",1970,2001
+"LVA","Euro","EUR","EUR",2014,2019
+"LVA","Euro","EUR","LVL",1995,2013
+"LVA","Euro","EUR","LVR",1990,1994
+"MAC","Pataca","MOP","MOP",1970,2019
+"MAR","Moroccan Dirham","MAD","MAD",1970,2019
+"MDA","Moldovan Leu","MDL","MDL",1994,2019
+"MDA","Moldovan Leu","MDL","RUR",1990,1993
+"MDG","Malagasy Ariary","MGA","MGA",2005,2019
+"MDG","Malagasy Ariary","MGA","MGF",1970,2004
+"MDV","Rufiyaa","MVR","MVQ",1970,1989
+"MDV","Rufiyaa","MVR","MVR",1990,2019
+"MEX","Mexican Peso","MXN","MXN",1993,2019
+"MEX","Mexican Peso","MXN","MXP",1970,1992
+"MKD","Denar","MKD","MKD",1990,2019
+"MLI","CFA Franc BCEAO","XOF","MLF",1970,1984
+"MLI","CFA Franc BCEAO","XOF","XOF",1985,2019
+"MLT","Euro","EUR","EUR",2008,2019
+"MLT","Euro","EUR","MTL",1983,2007
+"MLT","Euro","EUR","MTP",1970,1982
+"MMR","Kyat","MMK","MMK",1970,2019
+"MNE","Euro","EUR","EUR",2006,2019
+"MNG","Tugrik","MNT","MNT",1970,2019
+"MOZ","Metical","MZN","MZE",1970,1980
+"MOZ","Metical","MZN","MZM",1981,2005
+"MOZ","Metical","MZN","MZN",2006,2019
+"MRT","Ouguiya","MRU","MRO",1970,2017
+"MRT","Ouguiya","MRU","MRU",2018,2019
+"MUS","Mauritius Rupee","MUR","MUR",1970,2019
+"MWI","Malawian Kwacha","MWK","MWK",1970,2019
+"MYS","Malaysian Ringgit","MYR","MYR",1970,2019
+"NAM","Namibian Dollar","NAD","NAD",1970,2019
+"NER","CFA Franc BCEAO","XOF","XOF",1970,2019
+"NGA","Naira","NGN","NGN",1970,2019
+"NIC","Cordoba Oro","NIO","NIC",1970,1990
+"NIC","Cordoba Oro","NIO","NIO",1991,2019
+"NLD","Euro","EUR","EUR",2002,2019
+"NLD","Euro","EUR","NLG",1970,2001
+"NOR","Norwegian Krone","NOK","NOK",1970,2019
+"NPL","Nepalese Rupee","NPR","NPR",1970,2019
+"NZL","New Zealand Dollar","NZD","NZD",1970,2019
+"OMN","Rial Omani","OMR","OMR",1970,2019
+"PAK","Pakistan Rupee","PKR","PKR",1970,2019
+"PAN","Balboa","PAB","PAB",1970,2019
+"PER","Nuevo Sol","PEN","PEI",1986,1991
+"PER","Nuevo Sol","PEN","PEN",1992,2019
+"PER","Nuevo Sol","PEN","PES",1970,1985
+"PHL","Philippine Peso","PHP","PHP",1970,2019
+"PNG","Kina","PGK","PGK",1970,2019
+"POL","Zloty","PLN","PLN",1997,2019
+"POL","Zloty","PLN","PLZ",1970,1996
+"PRT","Euro","EUR","EUR",2002,2019
+"PRT","Euro","EUR","PTE",1970,2001
+"PRY","Guarani","PYG","PYG",1970,2019
+"QAT","Qatari Rial","QAR","QAR",1970,2019
+"ROU","New Leu","RON","ROL",1970,2004
+"ROU","New Leu","RON","RON",2005,2019
+"RUS","Russian Ruble","RUB","RUB",2004,2019
+"RUS","Russian Ruble","RUB","RUR",1990,2003
+"RWA","Rwanda Franc","RWF","RWF",1970,2019
+"SAU","Saudi Riyal","SAR","SAR",1970,2019
+"SDN","Sudanese Pound","SDG","SDD",1998,2007
+"SDN","Sudanese Pound","SDG","SDG",2008,2019
+"SDN","Sudanese Pound","SDG","SDP",1970,1997
+"SEN","CFA Franc BCEAO","XOF","XOF",1970,2019
+"SGP","Singapore Dollar","SGD","SGD",1970,2019
+"SLB","Solomon Islands Dollar","SBD","SBD",1970,2019
+"SLE","Leone","SLL","SLL",1970,2019
+"SLV","US Dollar","USD","USD",1970,2019
+"SOM","Somali Shilling","SOS","SOS",1970,2019
+"SRB","Serbian Dinar","RSD","RSD",2004,2019
+"SRB","Serbian Dinar","RSD","YUM",1996,2003
+"SRB","Serbian Dinar","RSD","YUN",1990,1995
+"STP","Dobra","STN","STD",1970,2017
+"STP","Dobra","STN","STN",2018,2019
+"SUR","Surinam Dollar","SRD","SRD",2004,2019
+"SUR","Surinam Dollar","SRD","SRG",1970,2003
+"SVK","Euro","EUR","EUR",2009,2019
+"SVK","Euro","EUR","SKK",1990,2008
+"SVN","Euro","EUR","EUR",2007,2019
+"SVN","Euro","EUR","SIT",1990,2006
+"SWE","Swedish Krona","SEK","SEK",1970,2019
+"SWZ","Lilangeni","SZL","SZL",1970,2019
+"SYC","Seychelles Rupee","SCR","SCR",1970,2019
+"SYR","Syrian Pound","SYP","SYP",1970,2019
+"TCD","CFA Franc BEAC","XAF","XAF",1970,2019
+"TGO","CFA Franc BCEAO","XOF","XOF",1970,2019
+"THA","Baht","THB","THB",1970,2019
+"TJK","Somoni","TJS","RUR",1990,1994
+"TJK","Somoni","TJS","TJR",1995,2000
+"TJK","Somoni","TJS","TJS",2001,2019
+"TON","Pa'anga","TOP","TOP",1970,2019
+"TTO","Trinidad and Tobago Dollar","TTD","TTD",1970,2019
+"TUN","Tunisian Dinar","TND","TND",1970,2019
+"TUR","New Turkish Lira","TRY","TRL",1970,2005
+"TUR","New Turkish Lira","TRY","TRY",2006,2019
+"TZA","Tanzanian Shilling","TZS","TZS",1970,2019
+"UGA","Uganda Shilling","UGX","UGS",1970,1987
+"UGA","Uganda Shilling","UGX","UGW",1989,1989
+"UGA","Uganda Shilling","UGX","UGX",1988,2019
+"UKR","Hryvnia","UAH","UAH",1997,2019
+"UKR","Hryvnia","UAH","UAK",1990,1996
+"URY","Peso Uruguayo","UYU","UYN",1970,1989
+"URY","Peso Uruguayo","UYU","UYP",1990,1992
+"URY","Peso Uruguayo","UYU","UYU",1993,2019
+"USA","US Dollar","USD","USD",1970,2019
+"UZB","Uzbekistan Sum","UZS","RUR",1990,1994
+"UZB","Uzbekistan Sum","UZS","UZS",1995,2019
+"VCT","East Caribbean Dollar","XCD","XCD",1970,2019
+"VEN","Bolivar Fuerte","VEF","VEB",1970,2007
+"VEN","Bolivar Fuerte","VEF","VEF",2008,2019
+"VNM","Dong","VND","VND",1970,2019
+"VUT","Vatu","VUV","VUV",1970,2019
+"WSM","Tala","WST","WST",1970,2019
+"YEM","Yemeni Rial","YER","YER",1990,2019
+"ZAF","Rand","ZAR","ZAL",1970,1994
+"ZAF","Rand","ZAR","ZAR",1995,2019
+"ZMB","Kwacha","ZMW","ZMK",1970,2012
+"ZMB","Kwacha","ZMW","ZMW",2013,2019
+"ZWE","US Dollar","USD","USD",2009,2019
+"ZWE","US Dollar","USD","ZWC",1970,1979
+"ZWE","US Dollar","USD","ZWD",1980,2005
+"ZWE","US Dollar","USD","ZWN",2006,2007
+"ZWE","US Dollar","USD","ZWR",2008,2008
