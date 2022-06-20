@@ -21,3 +21,4 @@ layout: post
     <iframe src="{{ site.baseurl }}/public/leaflet/map13.html" height="400px" width="100%" allowfullscreen="" frameborder="0">
     </iframe>
 </div>
+[Click for full screen map!]({{ site.baseurl }}/public/leaflet/map13.html){:target="_blank"}
